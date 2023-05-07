@@ -424,6 +424,7 @@ createdb --encoding UNICODE metrolog_db --username postgres
 exit
 ```
 
+    
 7. Create `www_dbms` db user and grand privileges to him:
 ```bash
 sudo -u postgres psql
